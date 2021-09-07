@@ -1,3 +1,4 @@
+import './styles.css';
 import './js/table-panel.js';
 
 // Нужно реализовать работу кафе:
